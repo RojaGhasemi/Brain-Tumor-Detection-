@@ -24,3 +24,6 @@ Clinical dataset  ( 1000 MRI normal images, 1000 MRI abnormal images, 70% for tr
 3.	Click tumor segmentation button
 4.	Click feature extraction button
 5.	Finally click recognition button
+
+## Project History
+This project was originally completed in 2011. The commit history has been adjusted to reflect the original dates of the work.
