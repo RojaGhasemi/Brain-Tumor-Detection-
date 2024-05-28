@@ -19,6 +19,7 @@ Clinical dataset  ( 1000 MRI normal images, 1000 MRI abnormal images, 70% for tr
  The results of our experiments on the BRAINX and clinical databases show that the proposed method has good efficiency and accuracy.
 
 ## How to Use
+After open run.m file and run it, you should do:
 1.	Press train dataset button
 2.	Then click open image for test
 3.	Click tumor segmentation button
